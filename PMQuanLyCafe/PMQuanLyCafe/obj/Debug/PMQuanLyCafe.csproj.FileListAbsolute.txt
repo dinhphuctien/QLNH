@@ -1,0 +1,264 @@
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.exe.config
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.exe
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.pdb
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.Properties.Resources.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.GenerateResource.cache
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.exe
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.pdb
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.frmDangNhap.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmMain.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLoaiDoUong.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLoaiDoUong2.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmBan.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmBan2.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHang.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHang2.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNguyenLieu.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNguyenLieu2.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNhanVien.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNhanVien2.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoUong.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoUong2.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHangThanhToan.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoanhThuTheoNgay.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoanhThuTheoNhanVien.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLichSuHoaDon.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmThongKeBanHang.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\EnvDTE.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\stdole.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInBill.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLy.EFAE0DD7.Up2Date
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmCongThuc.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmThongTinCaNhan.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.exe.config
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.exe
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.pdb
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\EnvDTE.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\stdole.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.AssemblyReference.cache
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.frmDangNhap.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmBan.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmBan2.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmCongThuc.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoanhThuTheoNgay.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoanhThuTheoNhanVien.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoUong.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoUong2.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInBill.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHang.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHang2.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHangThanhToan.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLichSuHoaDon.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLoaiDoUong.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLoaiDoUong2.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmMain.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNguyenLieu.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNguyenLieu2.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNhanVien.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNhanVien2.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmThongKeBanHang.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmThongTinCaNhan.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.Properties.Resources.resources
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.GenerateResource.cache
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.CoreCompileInputs.cache
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLy.EFAE0DD7.Up2Date
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.exe
+D:\Pictures\Máy tính\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.pdb
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInDoanhThuTheoNgay.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInDoanhThuTheoNhanVien.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInLichSuHoaDon.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInThongKeBanHang.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmTonKho.resources
+D:\Project\HopeMoney\Project\DaiHocKinhTeQuocDan_HoangTNguyet_PhanMemQuanLyQuanCafe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmTonKho2.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.exe.config
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.exe
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\PMQuanLyCafe.pdb
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\EnvDTE.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\stdole.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.frmDangNhap.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmBan.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmBan2.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmCongThuc.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoanhThuTheoNgay.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoanhThuTheoNhanVien.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoUong.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmDoUong2.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInBill.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInDoanhThuTheoNgay.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInDoanhThuTheoNhanVien.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInLichSuHoaDon.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmInThongKeBanHang.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHang.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHang2.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmKhachHangThanhToan.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLichSuHoaDon.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLoaiDoUong.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmLoaiDoUong2.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmMain.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNguyenLieu.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNguyenLieu2.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNhanVien.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmNhanVien2.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmThongKeBanHang.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmThongTinCaNhan.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmTonKho.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.GUI.frmTonKho2.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.Properties.Resources.resources
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.GenerateResource.cache
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLy.EFAE0DD7.Up2Date
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.exe
+D:\Project\HopeMoney\Project\zNguyenTrongDat_QuanLyNhaHang_DungThucTe\PMQuanLyCafe\PMQuanLyCafe\obj\Debug\PMQuanLyCafe.pdb
