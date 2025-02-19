@@ -22,6 +22,7 @@ namespace PMQuanLyCafe.GUI
         BanHang_DAO db = new BanHang_DAO();
         public static string MaHDThanhToan;
         public static string MaBanThanhToan;
+        public static string TongTienHD;
         public static string TongTienInHD;
         public static string ViTriBanInHD;
         public static string PTTTInHD;
@@ -39,6 +40,7 @@ namespace PMQuanLyCafe.GUI
             dtNgayOrder.Text = DateTime.Now.ToString("dd/MM/yyyy");
             DanhSachBan();
             DanhSachDoUong();
+            DanhSachNhanVienGioiThieu();
             DanhSachChiTietHoaDonTheoBan("1000");
             if(frmDangNhap.Role == "Nhân viên")
             {
@@ -104,6 +106,22 @@ namespace PMQuanLyCafe.GUI
             foreach (DataGridViewRow r in dtgvDoUong.Rows)
                 r.Height = 60;
             frmMain.SetupDataGridView(dtgvDoUong);
+            dtgvDoUong.Columns[3].Width = 100;
+        }
+        private void DanhSachNhanVienGioiThieu()
+        {
+            DataTable dt = new DataTable();
+            dt.Columns.Add("MaNV", typeof(string));
+            dt.Columns.Add("TenNV", typeof(string));
+            DataRow newRow = dt.NewRow();
+            newRow["MaNV"] = "";
+            newRow["TenNV"] = "";
+            dt.Rows.Add(newRow);
+            DataTable dt2 = db.GetNhanVienGioiThieu();
+            dt.Merge(dt2);
+            cboNVGT.DataSource = dt;
+            cboNVGT.DisplayMember = "TenNV";
+            cboNVGT.ValueMember = "MaNV";
         }
         public System.Drawing.Image ConvertStringtoImage(string commands)
         {
@@ -118,11 +136,12 @@ namespace PMQuanLyCafe.GUI
             dtgvHoaDon.DataSource = db.DanSachChiTietHoaDonTheoBan(MaHD);
             dtgvHoaDon.Columns[0].Visible = false;
             dtgvHoaDon.Columns[1].Visible = false;
-            dtgvHoaDon.Columns[2].HeaderText = "Mã đồ uống";
-            dtgvHoaDon.Columns[3].HeaderText = "Tên đồ uống";
+            dtgvHoaDon.Columns[2].HeaderText = "Mã";
+            dtgvHoaDon.Columns[3].HeaderText = "Tên";
             dtgvHoaDon.Columns[4].HeaderText = "Đơn giá";
             dtgvHoaDon.Columns[5].HeaderText = "Số lượng";
             dtgvHoaDon.Columns[6].HeaderText = "Thành tiền";
+            dtgvHoaDon.Columns[7].HeaderText = "NVGT";
             frmMain.SetupDataGridView(dtgvHoaDon);
             TongTien();
 
@@ -235,7 +254,7 @@ namespace PMQuanLyCafe.GUI
             dtSLT = db.KiemTraTonKho(dtgvDoUong.Rows[dtgvDoUong.CurrentCell.RowIndex].Cells[1].Value.ToString(),dtNgayOrder.Value.ToString("yyyyMMdd"));
             if(dtSLT.Rows.Count == 0)
             {
-                MessageBox.Show("Đồ uống này chưa nhập tồn kho hôm nay, vui lòng nhập tồn kho trước khi bán hàng", "Thông báo",
+                MessageBox.Show("Đồ uống này chưa đủ tồn kho để bán, vui lòng nhập tồn kho trước khi bán hàng", "Thông báo",
                 MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
@@ -255,7 +274,7 @@ namespace PMQuanLyCafe.GUI
                 DataTable dtMB = new DataTable();
                 dtMB = db.LayMaBanTheoTen(btnBanDaChon.Text.Trim());
                 db.ThemtblPhieuOrder(MaHD, dtNgayOrder.Value.ToString("yyyyMMdd"),txtMaNV.Text, dtMB.Rows[0][0].ToString(),"");
-                db.ThemtblChiPhieuOrder(MaCTHD, MaHD, MaDoUong,TenDoUong, nmSoLuong.Value.ToString());
+                db.ThemtblChiPhieuOrder(MaCTHD, MaHD, MaDoUong,TenDoUong, nmSoLuong.Value.ToString(),cboNVGT.SelectedValue.ToString());
                 db.UpdateThanhBanCoNguoi(dtMB.Rows[0][0].ToString());
                 MessageBox.Show("Thêm thành công");
 
@@ -277,7 +296,7 @@ namespace PMQuanLyCafe.GUI
                 DataTable dtMB = new DataTable();
                 dtMB = db.LayMaBanTheoTen(btnBanDaChon.Text.Trim());
                 
-                db.ThemtblChiPhieuOrder(MaCTHD, MaHD, MaDoUong, TenDoUong, nmSoLuong.Value.ToString());
+                db.ThemtblChiPhieuOrder(MaCTHD, MaHD, MaDoUong, TenDoUong, nmSoLuong.Value.ToString(),cboNVGT.SelectedValue.ToString());
                 MessageBox.Show("Thêm thành công");
                 db.TruSoLuongTon(dtNgayOrder.Value.ToString("yyyyMMdd"), MaDoUongTonKho, nmSoLuong.Value.ToString());
                 DanhSachBan();
@@ -324,7 +343,7 @@ namespace PMQuanLyCafe.GUI
 
             ViTriBanInHD = btnBanDaChon.Text + " " + dtMB2.Rows[0][0].ToString();
 
-            TongTienInHD = lblTongTien.Text;
+            TongTienHD = lblTongTien.Text;
             MaHDThanhToan = dtgvHoaDon.Rows[dtgvHoaDon.CurrentCell.RowIndex].Cells[0].Value.ToString();
             DataTable dtMB = new DataTable();
             dtMB = db.LayMaBanTheoTen(btnBanDaChon.Text.Trim());
@@ -372,7 +391,7 @@ namespace PMQuanLyCafe.GUI
             dtMB = db.LayViTriBanTheoTen(btnBanDaChon.Text.Trim());
 
             ViTriBanInHD = btnBanDaChon.Text + " " + dtMB.Rows[0][0].ToString();
-            TongTienInHD = lblTongTien.Text;
+            TongTienHD = lblTongTien.Text;
             MaHDThanhToan = dtgvHoaDon.Rows[dtgvHoaDon.CurrentCell.RowIndex].Cells[0].Value.ToString();
             frmInBill frm = new frmInBill();
             frm.Show();

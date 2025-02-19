@@ -101,7 +101,6 @@ namespace PMQuanLyCafe.GUI
             frmKhachHang frm = new frmKhachHang();
             frm.ShowDialog();
         }
-
         private void btnViewBill_Click(object sender, EventArgs e)
         {
             if(txtVAT.Text == "")
@@ -123,17 +122,17 @@ namespace PMQuanLyCafe.GUI
                 frmMain.PTTTInHD = "Tiền mặt";
             }
             frmMain.VATInHD = txtVAT.Text + " %";
-            frmMain.TongTienInHD = "";
+            frmMain.TongTienInHD = frmMain.TongTienHD;
             string TongTien = new string(frmMain.TongTienInHD.Where(char.IsDigit).ToArray()); 
             if (chkHDD.Checked && frmMain.PTTTInHD == "Thẻ")
             {
                 decimal total = decimal.Parse(TongTien) + (decimal.Parse(TongTien) * 5) / 100;
-                frmMain.TongTienInHD = total.ToString("# ##") + " VNĐ";
+                frmMain.TongTienInHD = total.ToString("N0") + " VNĐ";
             }
             else
             {
                 decimal total = decimal.Parse(TongTien) + (decimal.Parse(TongTien) * decimal.Parse(txtVAT.Text)) / 100;
-                frmMain.TongTienInHD = total.ToString("# ##") + " VNĐ";
+                frmMain.TongTienInHD = total.ToString("N0") + " VNĐ";
             }
             frmInBill frm = new frmInBill();
             frm.ShowDialog();

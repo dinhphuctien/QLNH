@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PMQuanLyCafe.GUI;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
@@ -41,12 +42,17 @@ namespace PMQuanLyCafe.DAO
         }
         public DataTable DanSachChiTietHoaDonTheoBan(string SoBan)
         {
-            string sql = "SELECT a.MaPhieuOrder,a.MaChiTietPhieuOrder, a.MaDoUong,b.TenDoUong,a.SoLuong,b.GiaTien,(a.SoLuong*b.GiaTien) AS ThanhTien FROM tblChiPhieuOrder a LEFT JOIN tblDoUong b ON a.MaDoUong = b.MaDoUong left join tblPhieuOrder c ON a.MaPhieuOrder = c.MaPhieuOrder WHERE SoBan = " + SoBan + " AND TrangThai = 'FALSE'";
+            string sql = "SELECT a.MaPhieuOrder,a.MaChiTietPhieuOrder, a.MaDoUong,b.TenDoUong,a.SoLuong,b.GiaTien,(a.SoLuong*b.GiaTien) AS ThanhTien,a.MaNV FROM tblChiPhieuOrder a LEFT JOIN tblDoUong b ON a.MaDoUong = b.MaDoUong left join tblPhieuOrder c ON a.MaPhieuOrder = c.MaPhieuOrder WHERE SoBan = " + SoBan + " AND TrangThai = 'FALSE'";
             return DataAccess.ThucThiQuery(sql);
         }
         public DataTable KiemTraTonKho(string MaDoUong,string NgayLap)
         {
             string sql = "SELECT SoLuongTon FROM tblTonKho WHERE NgayNhap = '"+NgayLap+ "' AND MaDoUong = '"+ MaDoUong + "'";
+            return DataAccess.ThucThiQuery(sql);
+        }
+        public DataTable GetNhanVienGioiThieu()
+        {
+            string sql = "select MaNV,TenNV FROM tblNhanVien";
             return DataAccess.ThucThiQuery(sql);
         }
         public string TruSoLuongTon(string NgayLap,string MaDoUong,string SoLuongTon)
@@ -64,9 +70,9 @@ namespace PMQuanLyCafe.DAO
             string sql = "insert into tblPhieuOrder values ('" + MaPhieuOrder + "','" + NgayOrder + "','" + MaNV + "',NULL,"+ SoBan + ",N'"+ MoTa + "','False',NULL,NULL,NULL)";
             return DataAccess.ThucThiNonQuery(sql);
         }
-        public string ThemtblChiPhieuOrder(string MaChiTietPhieuOrder, string MaPhieuOrder, string MaDoUong , string TenDoUong, string SoLuong)
+        public string ThemtblChiPhieuOrder(string MaChiTietPhieuOrder, string MaPhieuOrder, string MaDoUong , string TenDoUong, string SoLuong,string MaNVGT)
         {
-            string sql = "insert into tblChiPhieuOrder values ('" + MaChiTietPhieuOrder + "','" + MaPhieuOrder + "','" + MaDoUong + "',N'" + TenDoUong + "'," + SoLuong + ")";
+            string sql = "insert into tblChiPhieuOrder values ('" + MaChiTietPhieuOrder + "','" + MaPhieuOrder + "','" + MaDoUong + "',N'" + TenDoUong + "'," + SoLuong + ",'"+ MaNVGT + "')";
             return DataAccess.ThucThiNonQuery(sql);
         }
         public string UpdateThanhBanCoNguoi(string SoBan)
@@ -106,7 +112,8 @@ namespace PMQuanLyCafe.DAO
         public string UpdateHoaDon(string MaPhieuOrder,string HinhThucThanhToan,string VAT,string HDD)
         {
             string str = "";
-            if(HDD == "1" && HinhThucThanhToan == "Thẻ")
+            VAT = new string(VAT.Where(char.IsDigit).ToArray());
+            if (HDD == "1" && HinhThucThanhToan == "Thẻ")
             {
                 str = "TongTien = TongTien + (TongTien * 5)/100";
             }    
